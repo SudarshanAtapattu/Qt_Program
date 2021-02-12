@@ -1,2 +1,2 @@
 # Qt_Program
-CRUD C++ program with  c++
+CRUD C++ program 
